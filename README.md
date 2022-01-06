@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**foradarsh/foradarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola, I'm Kumar Adarsh Pandita 👋
 
 Here are some ideas to get you started:
 
